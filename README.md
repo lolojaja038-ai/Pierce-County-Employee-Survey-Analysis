@@ -18,7 +18,8 @@ The original dataset contained 14,725 records. To ensure the integrity of the an
  * Final Record Count: After cleaning, the dataset was reduced to 14,575 valid, usable records.
    
 Dashboard
-(Note: Upload your dashboard screenshot to your GitHub repository, click on it, copy the image address, and replace the text in the brackets above with your link.)
+
+https://github.com/lolojaja038-ai/Pierce-County-Employee-Survey-Analysis/blob/main/Employee%20Engagement%20Survey%20Analysis%20Dashboard.png 
 
 Key Insights & Analysis
 
