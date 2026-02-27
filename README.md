@@ -15,6 +15,8 @@ The original dataset contained 14,725 records. To ensure the integrity of the an
    
  * Standardized Text: Cleaned up question strings for better readability on the dashboard.
    
+ * Role Modeling Strategy: The dataset included four binary role flags (Director, Manager, Supervisor, and Staff). Instead of unpivoting these fields (which distorted the table structure), a calculated column was created in the data model.
+   
  * Final Record Count: After cleaning, the dataset was reduced to 14,575 valid, usable records.
    
 Dashboard
